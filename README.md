@@ -36,7 +36,7 @@
     .palette {
       margin-top: 20px;
       display: flex;
-      justify-content: space-between;
+      ustify-content: space-between;
     }
 
     .colorBox {
